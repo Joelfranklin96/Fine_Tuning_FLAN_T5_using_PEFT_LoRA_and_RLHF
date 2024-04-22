@@ -1,2 +1,1 @@
-Enhanced FLAN-T5 for Non-Toxic Text Summarization Using PEFT LoRA and RLHF Techniques.
-Fine-Tuned FLAN-T5 with Reinforcement Learning (PPO policy) and PEFT LoRA and leveraged Meta AI's RoBERTa as reward model to Generate Less-Toxic Summaries.
+Fine-tuned FLAN-T5 using the PEFT LoRA technique and further enhanced its capabilities for non-toxic text summarization by applying the RLHF method, leveraging Meta AI’s RoBERTa as the reward model. This approach successfully reduced the toxicity score by 1.5%
